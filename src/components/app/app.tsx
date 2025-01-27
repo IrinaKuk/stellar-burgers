@@ -24,7 +24,7 @@ import { RootState, useDispatch } from '../../services/store';
 import { fetchIngredients } from '../../services/slices/ingredientsSlice';
 import { ProtectedRoute } from '../protected-route';
 import { checkUserAuth } from '../../services/slices/userSlice';
-import { useSelector } from 'react-redux';
+import { useSelector } from '../../services/store';
 
 interface TModalProps {
   title: string;
