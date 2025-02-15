@@ -1,0 +1,9 @@
+{
+    "success": true,
+    "accessToken": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3OTY2OWZkMTMzYWNkMDAxYmU0Y2U1MiIsImlhdCI6MTczOTIxNzY2MCwiZXhwIjoxNzM5MjE4ODYwfQ.9-DXqDc26hr4rFYQA0m6W_aB55isgJiqPtK0i3EmlDw",
+    "refreshToken": "cec14b19aed64100c29b60f571d890fe5f0351248e843917b2728740aa24cc508c60fbb79a5c4b7f",
+    "user": {
+        "email": "wolodo@mail.ru",
+        "name": "Wolodo"
+    }
+}
